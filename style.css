@@ -1,0 +1,40 @@
+body {
+	background-color: pink;
+}
+
+p {
+	text-align: justify;
+	color: #890071;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+h1 {
+	text-align: center;
+	color: #088900;
+	border-style: dotted;
+}
+
+#para1{
+	
+	color: blue;
+}
+#para2{
+	
+	color: green;
+}
+#para3{
+	
+	color: black;
+}
+#para4{
+	
+	color: purple;
+}
+#para5{
+	
+	color: SaddleBrown;
+}
+#para6{
+	
+	color: DarkGreen	;
+}
